@@ -6,7 +6,8 @@ test.describe('Blog', () => {
     
       await loginPage.navigate();
       await loginPage.login();
-      await expect(page).toHaveURL(/.*dashboard/)
+      await expect(page).toHaveURL(/.*dashboard/) //
+
       
     })
 })
