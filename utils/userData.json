@@ -1,0 +1,39 @@
+{
+    "webUIStage": {
+      "url": "https://app-test.ikincisans.com.tr/",
+      "musteri": {
+        "username": "ibrahimcelikel5607+test4@gmail.com",
+        "password": "kAsDCdo6ri"
+      },
+      "tedarikci": {
+        "username": "ibrahimcelikel5607+tedarikci1@gmail.com",
+        "password": "OyYDXULgKY"
+      }
+    },
+    "webUIProd": {
+        "url": "https://app.ikincisans.com.tr/",
+        "musteri": {
+          "username": "ibrahimcelikel5607+Musteri5@gmail.com",
+          "password": "f9NsETzIZq"
+        },
+        "tedarikci": {
+          "username": "ibrahimcelikel5607+tedarikci5@gmail.com",
+          "password": "0YXXLfM1af"
+        }
+      },
+    "adminUIStage": {
+        "url": "https://admin-test.ikincisans.com.tr/login",
+        "username": "admin@keydigitalplatform.com",
+        "password": "Deneme123*"
+  },
+    "adminUIProd": {
+    "url": "https://admin.ikincisans.com.tr/login",
+    "username": "admin@keydigitalplatform.com",
+    "password": "Deneme123*"
+  }
+}
+  
+   
+  
+
+

@@ -1,0 +1,30 @@
+{
+  "name": "ikincisanstype",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "regression": "npx playwright test",
+    "allureReport": "allure serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.36.2",
+    "@types/adm-zip": "^0.5.0",
+    "@typescript-eslint/eslint-plugin": "^6.2.1",
+    "@typescript-eslint/parser": "^6.2.1",
+    "adm-zip": "^0.5.10",
+    "allure-commandline": "^2.23.1",
+    "allure-playwright": "^2.4.0",
+    "eslint": "^8.46.0",
+    "eslint-plugin-playwright": "^0.15.3",
+    "fs-extra": "^11.1.1",
+    "rimraf": "^2.6.3",
+    "winston": "^3.10.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
